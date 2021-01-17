@@ -1,5 +1,5 @@
-# lab-3---fce---espe
-TEOREMA DE SUPERPOSICIÓN
+
+# TEOREMA DE SUPERPOSICIÓN
 
 Informe
 OBJETIVOS
