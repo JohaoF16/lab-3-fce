@@ -127,7 +127,7 @@ proporcionan. Anote el valor de las mediciones en la tabla.
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla.
 
-7. APORTACIONES
+# 7. APORTACIONES
 
 Tabla de Registro de datos tomandos del Experimento:
 
