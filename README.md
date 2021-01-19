@@ -83,7 +83,7 @@ Lista de Materiales y componetes necesarios para desarrollar el circuito expirem
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/Equipos%20y%20Materiales.jpg)
 
 
-# 6.	DIAGRAMAS
+# 5.	DIAGRAMAS
  
 
 Aplicando superposición sabemos que:
@@ -109,7 +109,7 @@ Donde Vo1 es la salida forzada o resultante de la influencia de la fuente de ten
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/circuito%20simulado%20v2%200.jpg)
 
 
-# 7.	Procedimiento y funcionalidad
+# 6.	Procedimiento y funcionalidad
 
 En este punto se debe explicar cómo funcionan la implementación del circuito o programa.
 
@@ -127,7 +127,7 @@ proporcionan. Anote el valor de las mediciones en la tabla.
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla.
 
-6. APORTACIONES
+7. APORTACIONES
 
 Tabla de Registro de datos tomandos del Experimento:
 
@@ -154,7 +154,7 @@ con varias fuentes con el Teorema de Superposición.
 * Obervamos que las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras que
 las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 
-# 11.	BIBLIOGRAFÍA
+# 9.	BIBLIOGRAFÍA
 
 Rodríguez, H. (19 de Octubre de 2017). lifeder. Obtenido de
 
@@ -168,6 +168,6 @@ Recuperado de:
 
      https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
 
-# 12. ANEXOS
+# 10. ANEXOS
 
 
