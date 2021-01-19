@@ -139,6 +139,10 @@ Para poder econtrar los valores de la corriente para cada malla se aplicaron los
 
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/calculos.jpg)
 
+Formula a aplicar para el calculo del ERROR: 
+
+![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/calculo%20error.jpg)
+
 
 # 8.	CONCLUSIONES
 
