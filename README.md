@@ -7,13 +7,13 @@ OBJETIVO GENERAL:
 
 * Comprobar experimentalmente el Teorema de Superposición correspondiente con las dos fuentes y corriente seleccionada.
 
-* La experiencia de este laboratorio consiste en hacer la configuración en un circuito eléctrico para comprobar experimentalmente el Analisis de Mallas.
+* La experiencia de este laboratorio consiste en hacer la configuración en un circuito eléctrico para comprobar experimentalmente el Teorema de Superposicion y aplicacion ya sea el caso de fuente de voltaje o fuente de corriente.
 
 OBJETIVOS ESPECÍFICOS: 
 
-* Afianzar experimentalmente las leyes de conservación de la energía eléctrica y la Conservación de la carga a traves de las mallas.
+* Afianzar experimentalmente las leyes de conservación de la energía eléctrica y la Conservación de la carga a traves de las mallas y Nodos.
 
-* Verificar las leyes de Kirchhoff: Ley de Mallas, ley de Nodos para econtrar la corriente de cada malla.
+* Verificar las voltajes medidios y corrientes medidios en donde se requiere segun el diagrama teórico.
 
 
 # 2.	MARCO TEÓRICO
