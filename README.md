@@ -137,7 +137,19 @@ Tabla de Registro de datos tomandos del Experimento:
 
 Para poder econtrar los valores de la corriente para cada malla se aplicaron los sigueintes calulos:
 
+* observamos las fuentes y aplicamos teoremas de superposicion:
+
+![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/diagrama%20para%20v1%200.jpg)
+
+![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/diagrama%20para%20v2%200.jpg)
+
+* Realizamos los calculos correspondientes aplicando ley de mallas y ley de ohm en cada circuito generado del teorema de superposicion: 
+
 ![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/calculos.jpg)
+
+* Obtenemos como resultados finales para el cricuito Total:
+
+![](https://github.com/eddy90cg/lab-3-fce/blob/master/img/calculos%20finales.jpg)
 
 Formula a aplicar para el calculo del ERROR: 
 
@@ -169,5 +181,10 @@ Recuperado de:
      https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
 
 # 10. ANEXOS
+
+* Calculos a mano:
+
+      https://github.com/eddy90cg/lab-3-fce/blob/master/Anexos/calculos%20a%20mano.pdf
+   
 
 
